@@ -1,6 +1,5 @@
 //https://www.codechef.com/problems/LOGICIAN
 
-package Week3;
 
 import java.util.*;
 import java.io.*;
